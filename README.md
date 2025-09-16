@@ -22,8 +22,8 @@
 
 <h2>Tech Stack</h2>
 <UL>
-  programming language:Python ,java,c++
-  Database:MYSqL,SQLite,File,storage
+  programming language:Python ,java,c++<br>
+  Database:MYSqL,SQLite,File,storage<br>
   UI:Tkinter,JavaFx,Web-based UI)
 </UL> 
 
