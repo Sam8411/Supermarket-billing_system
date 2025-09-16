@@ -29,10 +29,10 @@
 
 <h2>Future Enhancements </h2>
 <ul type="circle">
-<ul>Integrating with barcode scanner</ul>  
- <ul>Inventory management system</ul> 
-  <ul>Sales analytics dashboard </ul>
-  <ul>Multi branch support</ul>
+<li>Integrating with barcode scanner</li>  
+ <li>Inventory management system</li> 
+  <li>Sales analytics dashboard </li>
+  <li>Multi branch support</li>
 </ul>
 <h3>To install external modules:</h3>
 <p><li>Run pip install tkinter</li></p>
