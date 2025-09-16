@@ -22,9 +22,9 @@
 
 <h2>Tech Stack</h2>
 <UL>
-  programming language:Python ,java,c++<br>
-  Database:MYSqL,SQLite,File,storage<br>
-  UI:Tkinter,JavaFx,Web-based UI)
+  <li>programming language:Python ,java,c++</li>
+<li>Database:MYSqL,SQLite,File,storage</li>
+  <li>UI:Tkinter,JavaFx,Web-based UI)</li>
 </UL> 
 
 <h2>Future Enhancements </h2>
