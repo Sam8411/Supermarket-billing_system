@@ -1,4 +1,4 @@
-<h1>Supermarket-billing_system</h1>
+<h1>Supermarket billing_system</h1>
 <p>A supermarket billing system for generating invoices ,managing products, and calculating totals.</p>
 
 <h2>Features</h2>
