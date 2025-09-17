@@ -39,3 +39,8 @@
 
 <h3>To execute the project:</h3>
 <p><li>Run  supermarket billing-system.py</li></p>
+
+<h3>Screenshot of this project</h3>
+<img width="1351" height="700" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/57f0d145-006f-4edc-a49a-505f61c26237" />
+
+
